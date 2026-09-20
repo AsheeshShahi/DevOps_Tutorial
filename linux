@@ -1,0 +1,3 @@
+I am writing this script to check memoru cpu usages
+
+df -kh
